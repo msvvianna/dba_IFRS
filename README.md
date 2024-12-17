@@ -1,4 +1,4 @@
-# 03/12/2024 - CURSO DBA IFRS - DAY 1
+# 16/12/2024 - CURSO DBA IFRS - DAY 1
 
 ## 1 Banco de Dados: conceitos
 
@@ -127,7 +127,7 @@ Separar o usuário e a aplicação do armazenamento físico por meio de níveis 
 3. **Físico**: 
    - Relaciona-se ao armazenamento e acesso físico dos dados no disco.
 
-![3.png](3.png)
+![3.png](images/3.png)
 
 ---
 
